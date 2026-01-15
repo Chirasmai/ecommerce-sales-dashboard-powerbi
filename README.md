@@ -10,6 +10,7 @@ Enables analysis of top-performing categories, seasonal trends, and business per
 
 ## 🔄 Project Workflow & Process
 
+
 ### 1️⃣ Data Understanding
 - Reviewed e-commerce sales data to understand **orders, products, categories, sales, and profit metrics**.
 
