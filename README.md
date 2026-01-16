@@ -8,9 +8,6 @@ Enables analysis of top-performing categories, seasonal trends, and business per
 
 ---
 
-📸 **Dashboard Screenshot**
-![Dashboard Screenshot](dashboard%20screenshot.jpeg)
-
 ---
 
 ## 🔄 Project Workflow & Process
