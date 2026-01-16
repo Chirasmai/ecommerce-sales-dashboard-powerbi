@@ -1,12 +1,12 @@
 # Ecommerce Sales Dashboard – Power BI
 
+![Ecommerce Sales Dashboard](screenshot%20dashboard.jpeg)
+
 Interactive **Power BI** dashboard providing end-to-end insights into e-commerce sales, profit, products, and trends.  
 Developed using **Power Query** for data preparation and **DAX measures** for advanced KPI calculations.  
 Enables analysis of top-performing categories, seasonal trends, and business performance at a glance.
 
 *Note: Dataset file excluded due to GitHub file size limitations.*
-
----
 
 ---
 
@@ -35,18 +35,19 @@ Enables analysis of top-performing categories, seasonal trends, and business per
 ---
 
 ## ⚡ Key Features
-- Interactive charts and slicers for dynamic data exploration.  
-- KPI cards for quick performance metrics.  
-- Drill-through and filtering to analyze **customer behavior and sales trends**.  
+- Interactive charts and slicers for dynamic data exploration  
+- KPI cards for quick performance metrics  
+- Drill-through and filtering to analyze **customer behavior and sales trends**
 
 ---
 
 ## 🛠 Tools & Technologies
-- **Power BI Desktop**  
-- **Power Query** for data transformation  
-- **DAX** for advanced calculations  
-- **PBIX file** included (`ecommerce-sales-dashboard.pbix`)  
-- Screenshot included (`dashboard screenshot.jpeg`)
+- **Power BI Desktop**
+- **Power Query**
+- **DAX**
+- **PBIX file** included (`ecommerce-sales-dashboard.pbix`)
+- **Dashboard screenshot** included (`screenshot dashboard.jpeg`)
+
 
 
 
